@@ -1,5 +1,5 @@
 {
-  "name": "airport-lost-found-backend",
+  "name": "lost",
   "version": "1.0.0",
   "description": "Backend for Airport Lost and Found System",
   "main": "server.js",
